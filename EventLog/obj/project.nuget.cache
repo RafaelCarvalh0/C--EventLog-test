@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gr/yPPEGrbS3lvBnur0nGRHzMBSN7WChb+HFaIVMf0W2Tl+wFHaYQkEDQUg8Af4fz7gLp5hTi8wOaR+Jk9XtRg==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\EventLog\\EventLog\\EventLog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafael\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
